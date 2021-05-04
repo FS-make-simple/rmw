@@ -45,5 +45,3 @@ truncate_str (char *str, int pos);
 
 int
 resolve_path (const char *src, char *abs_path);
-
-bool isdotdir (const char *dir);
